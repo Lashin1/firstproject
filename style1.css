@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+#logo{
+    height: 40px;
+    margin-right: 50px;
+}
+.nav-bar-text-color{
+    color: rgba(70, 155, 155) !important;
+}
+body{
+    background-image: url(72270.jpg);
+    background-size: 100%;
+}
+.form-label{
+    color: rgba(48, 79, 80);
+}
+#first-name-input{
+    width: 630px;
+}
+.form-control{
+    background-color: transparent;
+    border: solid rgba(82, 38, 38) 2px;    
+}
+#inputState{
+    background-color: transparent;
+    border: solid rgba(82, 38, 38) 2px;    
+}
+#button-bg{
+    background-color: transparent;
+    border: solid rgba(82, 38, 38) 2px;   
+}
+#button-bg:hover{
+    background-color: rgba(82, 38, 38);
+}
+#gridCheck{
+    background-color: transparent;
+    border: solid rgba(82, 38, 38) 2px;   
+}
+option{
+    background-color: rgba(82, 38, 38);
+}
+.alert{
+    background-color: transparent;
+    border: solid rgba(82, 38, 38) 2px;  
+}
